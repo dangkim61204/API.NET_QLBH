@@ -1,0 +1,73 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\LAPTRINH\\sem3_asp.net\\API_Angular\\Clothing_storeAPI\\Clothing_storeAPI\\wwwroot\\images\\975c10e6-3377-4ddc-8b6f-2adf110c3c4b_tai-nghe-5.jpg",
+      "PackagePath": "staticwebassets\\images\\975c10e6-3377-4ddc-8b6f-2adf110c3c4b_tai-nghe-5.jpg"
+    },
+    {
+      "Id": "D:\\LAPTRINH\\sem3_asp.net\\API_Angular\\Clothing_storeAPI\\Clothing_storeAPI\\wwwroot\\images\\b0593a85-99e8-4af0-8b0a-55657f6caa38_tai-nghe-5.jpg",
+      "PackagePath": "staticwebassets\\images\\b0593a85-99e8-4af0-8b0a-55657f6caa38_tai-nghe-5.jpg"
+    },
+    {
+      "Id": "D:\\LAPTRINH\\sem3_asp.net\\API_Angular\\Clothing_storeAPI\\Clothing_storeAPI\\wwwroot\\images\\chuột.jpg",
+      "PackagePath": "staticwebassets\\images\\chuột.jpg"
+    },
+    {
+      "Id": "D:\\LAPTRINH\\sem3_asp.net\\API_Angular\\Clothing_storeAPI\\Clothing_storeAPI\\wwwroot\\images\\dh.jpg",
+      "PackagePath": "staticwebassets\\images\\dh.jpg"
+    },
+    {
+      "Id": "D:\\LAPTRINH\\sem3_asp.net\\API_Angular\\Clothing_storeAPI\\Clothing_storeAPI\\wwwroot\\images\\loa-2.jpg",
+      "PackagePath": "staticwebassets\\images\\loa-2.jpg"
+    },
+    {
+      "Id": "D:\\LAPTRINH\\sem3_asp.net\\API_Angular\\Clothing_storeAPI\\Clothing_storeAPI\\wwwroot\\images\\mt.jpg",
+      "PackagePath": "staticwebassets\\images\\mt.jpg"
+    },
+    {
+      "Id": "D:\\LAPTRINH\\sem3_asp.net\\API_Angular\\Clothing_storeAPI\\Clothing_storeAPI\\wwwroot\\images\\máy-ảnh-1.jpg",
+      "PackagePath": "staticwebassets\\images\\máy-ảnh-1.jpg"
+    },
+    {
+      "Id": "D:\\LAPTRINH\\sem3_asp.net\\API_Angular\\Clothing_storeAPI\\Clothing_storeAPI\\wwwroot\\images\\tai nghe1.jpg",
+      "PackagePath": "staticwebassets\\images\\tai nghe1.jpg"
+    },
+    {
+      "Id": "D:\\LAPTRINH\\sem3_asp.net\\API_Angular\\Clothing_storeAPI\\Clothing_storeAPI\\wwwroot\\images\\tai-nghe-2.jpg",
+      "PackagePath": "staticwebassets\\images\\tai-nghe-2.jpg"
+    },
+    {
+      "Id": "D:\\LAPTRINH\\sem3_asp.net\\API_Angular\\Clothing_storeAPI\\Clothing_storeAPI\\wwwroot\\images\\tai-nghe-3.jpg",
+      "PackagePath": "staticwebassets\\images\\tai-nghe-3.jpg"
+    },
+    {
+      "Id": "D:\\LAPTRINH\\sem3_asp.net\\API_Angular\\Clothing_storeAPI\\Clothing_storeAPI\\wwwroot\\images\\tai-nghe-5.jpg",
+      "PackagePath": "staticwebassets\\images\\tai-nghe-5.jpg"
+    },
+    {
+      "Id": "D:\\LAPTRINH\\sem3_asp.net\\API_Angular\\Clothing_storeAPI\\Clothing_storeAPI\\wwwroot\\images\\điện-thoại-1.jpg",
+      "PackagePath": "staticwebassets\\images\\điện-thoại-1.jpg"
+    },
+    {
+      "Id": "D:\\LAPTRINH\\sem3_asp.net\\API_Angular\\Clothing_storeAPI\\Clothing_storeAPI\\wwwroot\\images\\đồng-hồ-1.jpg",
+      "PackagePath": "staticwebassets\\images\\đồng-hồ-1.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Clothing_storeAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Clothing_storeAPI.props",
+      "PackagePath": "build\\Clothing_storeAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Clothing_storeAPI.props",
+      "PackagePath": "buildMultiTargeting\\Clothing_storeAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Clothing_storeAPI.props",
+      "PackagePath": "buildTransitive\\Clothing_storeAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
